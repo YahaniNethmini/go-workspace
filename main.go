@@ -8,4 +8,10 @@ func main() {
 	// Variable declaration
 	name := "John"
 	fmt.Println("Hello", name)
+
+	var age int = 25
+	fmt.Println("Age is", age)
+
+	var greeting string = "Hello World"
+	fmt.Println(greeting)
 }
