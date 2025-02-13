@@ -14,4 +14,7 @@ func main() {
 
 	var greeting string = "Hello World"
 	fmt.Println(greeting)
+
+	var price float64 = 23.75
+	fmt.Println(price)
 }
